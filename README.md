@@ -36,6 +36,7 @@ Validação de estrutura com comandos SELECT
 
 
 👥 Autores
+
 Emelly Sayury Dos Santos Mendonça
 
 Daniel Marinho
